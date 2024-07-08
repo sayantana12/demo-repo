@@ -1,4 +1,5 @@
 # demo-repo
-This is my first Git Repository
+This is my first Git Repository.
+<br>
 First modification done.
-I liked doing it
+<br>I liked doing it
